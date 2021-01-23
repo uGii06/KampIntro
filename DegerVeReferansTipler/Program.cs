@@ -25,7 +25,7 @@ namespace DegerVeReferansTipler
             //int, decimal, float, double, bool= değer tip
             //array, class, interface= referans tip
             //stack 
-            //heap= bellek
+            //heap= belleks
         }
     }
 }
